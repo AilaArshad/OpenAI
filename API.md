@@ -1,3 +1,4 @@
+## API
 - **API**: An API (Application Programming Interface) is a set of protocols that allows different software applications to communicate with each other.
 - **SDK**: A Software Development Kit (SDK) is a collection of tools and libraries provided for developing applications for a specific platform.
 - **Web APIs**: Web APIs are interfaces that allow communication between systems over the internet using protocols like HTTP.
