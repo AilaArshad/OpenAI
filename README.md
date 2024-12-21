@@ -1,4 +1,3 @@
-
 # OpenAI Chat Completion API Parameters.
 
 ## Messages
